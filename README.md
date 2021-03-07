@@ -1,5 +1,5 @@
 # Sumit-Verma
-Sumit Verma's Sit sharing some of his Work
+Sumit Verma sharing some of his Work
 
 # Sorting
 
